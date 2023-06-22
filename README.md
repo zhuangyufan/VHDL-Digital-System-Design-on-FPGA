@@ -1,2 +1,2 @@
 # Digital-System-Design
- Design, implementation and analysis of digital logic systems
+ Design, implementation and analysis of simple digital logic systems
