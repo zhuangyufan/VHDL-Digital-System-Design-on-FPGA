@@ -1,4 +1,4 @@
-# SUSTech EE332 (Digital System Design) Assignments
+### SUSTech EE332 (Digital System Design) Assignments
 
 Semester: 2023 Spring
 
