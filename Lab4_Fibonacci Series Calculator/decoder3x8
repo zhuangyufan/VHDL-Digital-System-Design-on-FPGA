@@ -1,0 +1,38 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+
+entity decoder3x8 is
+  port (
+    I    : in  std_logic_vector(2 downto 0);
+    AN   : out std_logic_vector(7 downto 0)
+  );
+end entity decoder3x8;
+
+architecture Behavioral of decoder3x8 is
+begin
+  process (I)
+  begin
+    case I is
+      when "000" =>
+        AN <= "01111111";
+      when "001" =>
+        AN <= "10111111";
+      when "010" =>
+        AN <= "11011111";
+      when "011" =>
+        AN <= "11101111";
+      when "100" =>
+        AN <= "11110111";
+      when "101" =>
+        AN <= "11111011";
+      when "110" =>
+        AN <= "11111101";
+      when "111" =>
+        AN <= "11111110";
+      when others =>
+        AN <= "11111111";
+    end case;
+  end process;
+end architecture Behavioral;
+
