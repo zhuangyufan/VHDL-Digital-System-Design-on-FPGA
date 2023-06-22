@@ -2,4 +2,4 @@
 
 Semester: 2023 Spring
 
-Lecturer: Prof. Yajun Yu https://www.sustech.edu.cn/en/faculties/yuyajun.html
+Lecturer: [Prof. Yajun Yu](https://www.sustech.edu.cn/en/faculties/yuyajun.html)
