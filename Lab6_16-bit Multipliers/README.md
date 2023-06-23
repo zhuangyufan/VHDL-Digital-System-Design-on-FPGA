@@ -83,11 +83,13 @@ For the repetitive-addition design, because it is a sequential logic circuit, th
 The pipelined design can significantly increase the throughput of the multiplier. The time cost for one calculation is approximately 15ns. And the minimum interval $T_c$ between two inputs is 10ns, that is, one clock period, which means that we can input next number 10ns' later than last input.
 
 - Propagation delay:
+
 $$
 T_{pipe} = 15T_c = 15 \cdot 10ns = 150ns.
 $$
 
 - Throughput:
+
 $$
 \lim_{k \to \infty}\frac{k}{15T_c+kT_c} = \frac{1}{Tc} = \frac{1}{10ns} = 10^8 s^{-1}.
 $$
