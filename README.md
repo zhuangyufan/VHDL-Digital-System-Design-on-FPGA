@@ -17,4 +17,4 @@ All the design is implemented on Xilinx Nexys4 DDR board，shown as follows.
 <img src="board.png" width = 40%>
 </div>
 
-The code provided is not perfect. Feel free to provide comments.
+**The code provided is not perfect. Feel free to provide comments.**
