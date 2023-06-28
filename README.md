@@ -14,7 +14,10 @@ Lecturer: [Prof. Yajun Yu](https://www.sustech.edu.cn/en/faculties/yuyajun.html)
 
 All the design is implemented on Xilinx Nexys4 DDR board，shown as follows.
 <div align=center>
-<img src="board.png" width = 40%>
+<img src="board.png" width = 30%>
+<img src="setting.png" width = 60%>
 </div>
+
+
 
 **The code provided is not perfect. Feel free to provide comments.**
