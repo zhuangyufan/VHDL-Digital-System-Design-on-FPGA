@@ -20,4 +20,4 @@ All the design is implemented on Xilinx Nexys4 DDR board，shown as follows.
 
 
 
-**The code provided is not perfect. Feel free to provide comments.**
+**Any comments are welcome!**
